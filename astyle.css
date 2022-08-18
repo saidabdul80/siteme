@@ -237,9 +237,7 @@ button:focus {
 .home_banner_area {
     position: relative;
     z-index: 1;
-    background-image: -moz-linear-gradient(271deg,#5e6e7e 0%,#cadae87d 100%);
-    background-image: -webkit-linear-gradient(271deg,#5e6e7e 0%,#cadae87d 100%);
-    background-image: -ms-linear-gradient(271deg,#5e6e7e 0%,#cadae87d 100%);
+    background: #0a0b4e;
     margin-bottom: 200px
 }
 
